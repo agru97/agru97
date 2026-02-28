@@ -4,8 +4,4 @@
 
 ---
 
-<a href="https://trending-footballers.vercel.app"><b>Trending Footballers</b></a> — Real-time dashboard tracking trending footballers worldwide.
-
----
-
 <a href="mailto:adr.gruber@gmail.com">adr.gruber@gmail.com</a> · <a href="https://linkedin.com/in/adrian-gruber">LinkedIn</a> · <a href="https://www.pinio-app.com">pinio-app.com</a>
