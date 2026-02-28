@@ -1,4 +1,4 @@
-Hey, I'm Adrian — a fullstack developer based in Barcelona.
+Hey, I'm Adrian — a developer based in Barcelona.
 
 Right now I'm building [Pinio](https://www.pinio-app.com), a social planner & map app on the App Store. Before that I studied Computer Science at LMU Munich and did my Master's in Innovation & Research in Informatics at UPC Barcelona.
 
