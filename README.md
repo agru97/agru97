@@ -10,11 +10,7 @@ hello world. i am
 
 
 
-                  ·  ·  ·
-
-
-
-  building <a href="https://www.pinio-app.com">pinio</a>.
+  building <a href="https://www.pinio-app.com">pinio</a>
 
 
 </pre>
