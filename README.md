@@ -1,5 +1,5 @@
 <pre>
-hello world.
+hello world
 i am
 
            _      _
